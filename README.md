@@ -27,6 +27,8 @@ In this readme.md, you will understand what this Eye Gaze Project is all about.
         * 
         * 
 
+
+* Issues 
 [Issues](https://www.reddit.com/r/MicrosoftFlightSim/comments/1ew95qh/does_anybody_actually_use_eye_tracking/)
 
 Sri Sangwan School is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible.
