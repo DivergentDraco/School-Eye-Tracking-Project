@@ -10,17 +10,7 @@
 
 Eye tracking was taken into development around 100 years ago, though it can be implemented with other users, including those with disabilities. This small project has come to light after we initiated a detailed analysis through tests, questions, and surveys throughout the school.
 
-This repository was made specifically for the ISSP Project dedicated to the Sri Sangwan School. Implemented by using the existing Eye Tracking software called [Beam Eye Tracker](), and utilize it for the gaze bubble to follow with the mouse.
-
-
-
-* What is Sri Sangwan School?
-  * What is the mission
-  * Who got the impact
-  * When is the project
-  * Which aspect are we aiming
-
-
+This repository was made specifically for the ISSP Project dedicated to the Sri Sangwan School. Implemented by using the existing Eye Tracking software called [Beam Eye Tracker](https://beam.eyeware.tech/), and utilizing it for the gaze bubble to follow with the mouse.
 
 Sri Sangwan School is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible.
 
@@ -43,7 +33,7 @@ This project focuses on improving the well-being of Sri Sangwan School by provid
 
 This video includes our presentation of this project.
 
-[**>>Presentation Video<<**]
+[**>>Presentation Video<<**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 The video includes our research and methodologies while working on the research recommendations that applied to this project later on.
 
@@ -56,11 +46,13 @@ The objective for this project is to try and see methods that can be used within
 
 Beam Eye Tracker is an eye tracker software that can be used with its existing [API](). Presenting a wide variety of functions, such as gaze tracking, integration with games, etc. The calibration and sensitivity can be controlled within its included UI.
 
+### Coding language used
 To install the program, you will need...
+ - Beam Eye Tracking software ([Website](https://beam.eyeware.tech/))  
+ - Python 3.9.13 ([Website](https://www.python.org/downloads/release/python-3913/))
+
+###Package installer 
  - 
-
-
-## Coding language used
 
 > [!WARNING]
 > This particular eye-tracking software costs around 400 baht. Which is needed to be able to run the code provided in this GitHub repository.
