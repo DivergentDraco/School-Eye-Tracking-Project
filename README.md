@@ -10,11 +10,11 @@
 
 Eye tracking was taken into development around 100 years ago, though it can be implemented with other users, including those with disabilities. This small project has come to light after we initiated a detailed analysis through tests, questions, and surveys throughout the school.
 
-This repository was made specifically for the ISSP Project dedicated to the Sri Sangwan School. Implemented by using the existing Eye Tracking software called [Beam Eye Tracker](https://beam.eyeware.tech/), and utilizing it for the gaze bubble to follow with the mouse.
+This repository was made specifically for the **ISSP Project** dedicated to the Sri Sangwan School. Implemented by using the existing Eye Tracking software called [**Beam Eye Tracker**](https://beam.eyeware.tech/), and utilizing it for the gaze bubble to follow with the mouse.
 
-Sri Sangwan School is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible. Read more about Sri Sangwan School ([>>here<<](http://www.swn.ac.th/mainpage))
+**Sri Sangwan School** is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible. Read more about Sri Sangwan School ([>>here<<](http://www.swn.ac.th/mainpage))
 
-This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations, and group study. Later on, we decided to research existing eye-tracking software and develop through existing API written by said eye-tracking software developer.
+This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations, and group study. Later on, we decided to research existing eye-tracking software and develop it through existing [**API**](https://beam.eyeware.tech/developers/) written by said eye-tracking software developer.
 
 ---
 
@@ -48,41 +48,34 @@ The objective for this project is to try and see methods that can be used within
 Beam Eye Tracker is an eye tracker software that can be used with its existing [API](). Presenting a wide variety of functions, such as gaze tracking, integration with games, etc. The calibration and sensitivity can be controlled within its included UI.
 
 ### Coding language used
-To install the program, you will need...
+#### To install the program, you will need the programs and files as stated:
+##### Required Programs
  - Beam Eye Tracking software ([Website](https://beam.eyeware.tech/))  
  - Python 3.9.13 ([Website](https://www.python.org/downloads/release/python-3913/))
+ - Provided file in the repo
+
+##### Additional Programs
+ - Optikey ([Website](https://www.optikey.org/))
+(package installer?)
+   
+# Demo video
+[Find it here]()
+
+# Installation video
+[Find it here]() 
 
 ---
-# WORK IN PROGRESS
-
-###Package installer 
- - 
 
 > [!WARNING]
 > This particular eye-tracking software costs around 400 baht. Which is needed to be able to run the code provided in this GitHub repository.
 
+> [!WARNING]
+> This eye-tracking project is in development progress. Which does not intend to be immplemented the moment it's finished. The final product can only be recommended
 
 
-* What is Eye Tracking?
-  * What's the purpose?
-  * When was the starting point
-  * Method
-    * What is the function
-   
 
-* The program
-  * Chosen Eye tracking Program (Eye gaze)
-    * Coding language and IDE used
-    * Packages used
-      * +Downloadable sources
-      * +Specs and tools needed
-        * PC recommendations
-        * Camera recommendations
-        * 
-        * 
-
-
-* Issues 
-[Issues](https://www.reddit.com/r/MicrosoftFlightSim/comments/1ew95qh/does_anybody_actually_use_eye_tracking/)
-
-Sri Sangwan School is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible.
+* Issues
+Throughout the project, there are many issues coming up while attempting to use the eye tracking method.
+- Eye fatigue  
+ [Issues](https://www.reddit.com/r/MicrosoftFlightSim/comments/1ew95qh/does_anybody_actually_use_eye_tracking/)
+| Many of eye tracking camera users disabled the eye tracking due to eye fatigue when used, later to use the head tracking function that comes with the software.
