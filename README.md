@@ -10,11 +10,7 @@
 
 Eye tracking was taken into development around 100 years ago, though it can be implemented with other users, including those with disabilities. This small project has come to light after we initiated a detailed analysis through tests, questions, and surveys throughout the school.
 
-This repository was made specifically for the **ISSP Project** dedicated to the Sri Sangwan School. Implemented by using the existing Eye Tracking software called [**Beam Eye Tracker**](https://beam.eyeware.tech/), and utilizing it for the gaze bubble to follow with the mouse.
-
-**Sri Sangwan School** is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible. Read more about Sri Sangwan School ([>>here<<](http://www.swn.ac.th/mainpage))
-
-This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations, and group study. Later on, we decided to research existing eye-tracking software and develop it through existing [**API**](https://beam.eyeware.tech/developers/) written by said eye-tracking software developer.
+This repository was made specifically for the **ISSP Project** dedicated to the Sri Sangwan School. Implemented by using the existing Eye Tracking software called [**Beam Eye Tracker**](https://beam.eyeware.tech/), and utilizing it for the gaze bubble to follow with the mouse. 
 
 ---
 
@@ -31,6 +27,10 @@ This project focuses on improving the well-being of Sri Sangwan School by provid
 ---
 
 # Project Overview
+
+**Sri Sangwan School** is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible. Read more about Sri Sangwan School ([>>here<<](http://www.swn.ac.th/mainpage))
+
+This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations, and group study. Later on, we decided to research existing eye-tracking software and modify the existing [**API**](https://beam.eyeware.tech/developers/) written by said eye-tracking software developer.
 
 ## Our Presentation
 
@@ -50,19 +50,27 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
 ### Coding language used
 #### To install the program, you will need the programs and files as stated:
 ##### Required Programs
- - Beam Eye Tracking software ([Website](https://beam.eyeware.tech/))  
- - Python 3.9.13 ([Website](https://www.python.org/downloads/release/python-3913/))
+ - Beam Eye Tracking software ([Website](https://beam.eyeware.tech/)) This software is needed to use eye tracking functionalities. This program costed a little, though the outcome is decent
+
+ - Python **3.9.13** ([Website](https://www.python.org/downloads/release/python-3913/))
  - Provided file in the repo
 
 ##### Additional Programs
- - Optikey ([Website](https://www.optikey.org/))
+ - Optikey ([Website](https://www.optikey.org/)) This software adds buttons on-screen to help with eye tracking functionalities. 
 (package installer?)
    
 # Demo video
 [Find it here]()
 
-# Installation video
+---
+
+# Installation
+
+## Installation video
 [Find it here]() 
+
+## Installation steps
+1. install the required programs needed
 
 ---
 
@@ -74,8 +82,16 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
 
 
 
-* Issues
+# Issues
 Throughout the project, there are many issues coming up while attempting to use the eye tracking method.
+
 - Eye fatigue  
  [Issues](https://www.reddit.com/r/MicrosoftFlightSim/comments/1ew95qh/does_anybody_actually_use_eye_tracking/)
 | Many of eye tracking camera users disabled the eye tracking due to eye fatigue when used, later to use the head tracking function that comes with the software.
+
+- Low Precision
+ [Issues]()
+  Experiencing cursor drifts while using the eye tracker
+
+- Head tilt and movement calibration issues
+ [Issues]()
