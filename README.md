@@ -26,14 +26,14 @@ Sri Sangwan School is an institution that provides inclusive education for child
 
 This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations, and group study. Later on, we decided to research existing eye-tracking software and develop through existing API written by said eye-tracking software developer.
 
- * Sean Arackal, Worcester Polytechnic Institute
- * Mohamed Adem Djadid, Worcester Polytechnic Institute
- * Pawin Harijanwong, Chulalongkorn University ([@DivergentDraco]())
- * Siraphop Homhual, Chulalongkorn University
- * Madalyn Nguyen, Worcester Polytechnic Institute
- * Marissa Rukachantarakul, Chulalongkorn University
- * Bhurinat Sumetchotimaytha, Chulalongkorn University
- * Mahit Verma, Worcester Polytechnic Institute
+ * Sean Arackal, *Worcester Polytechnic Institute*
+ * Mohamed Adem Djadid, *Worcester Polytechnic Institute*
+ * Pawin Harijanwong, *Chulalongkorn University* ([@DivergentDraco](https://github.com/DivergentDraco))
+ * Siraphop Homhual, *Chulalongkorn University*
+ * Madalyn Nguyen, *Worcester Polytechnic Institute*
+ * Marissa Rukachantarakul, *Chulalongkorn University*
+ * Bhurinat Sumetchotimaytha, *Chulalongkorn University*
+ * Mahit Verma, *Worcester Polytechnic Institute*
 
 ---
 
@@ -62,8 +62,8 @@ To install the program, you will need...
 
 ## Coding language used
 
-
-
+> [!WARNING]
+> This particular eye-tracking software costs around 400 baht. Which is needed to be able to run the code provided in this GitHub repository.
 
 
 
