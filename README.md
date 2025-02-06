@@ -24,7 +24,7 @@ This repository was made specifically for the ISSP Project dedicated to the Sri 
 
 Sri Sangwan School is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible.
 
-This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations, and group study. Later on, we decided to researched existing eye tracking software and develop through existing API written by said eye tracking software developer.
+This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations, and group study. Later on, we decided to research existing eye-tracking software and develop through existing API written by said eye-tracking software developer.
 
  * Sean Arackal, Worcester Polytechnic Institute
  * Mohamed Adem Djadid, Worcester Polytechnic Institute
@@ -36,6 +36,36 @@ This project focuses on improving the well-being of Sri Sangwan School by provid
  * Mahit Verma, Worcester Polytechnic Institute
 
 ---
+
+# Project Overview
+
+## Our Presentation
+
+This video includes our presentation of this project.
+
+[**>>Presentation Video<<**]
+
+The video includes our research and methodologies while working on the research recommendations that applied to this project later on.
+
+
+## Our purpose and objective
+
+The objective for this project is to try and see methods that can be used within Sri Sangwan School's computer science lab, which houses extraordinary students that has loss of limb, uncontrollable muscle, or Cerebral Palsy, etc.
+
+## Beam Eye Tracker
+
+Beam Eye Tracker is an eye tracker software that can be used with its existing [API](). Presenting a wide variety of functions, such as gaze tracking, integration with games, etc. The calibration and sensitivity can be controlled within its included UI.
+
+To install the program, you will need...
+ - 
+
+
+## Coding language used
+
+
+
+
+
 
 * What is Eye Tracking?
   * What's the purpose?
