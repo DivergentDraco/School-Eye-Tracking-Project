@@ -2,7 +2,7 @@
 
 ## 2302399 PROJECT PROPOSAL I (2024)
 
-[อ่านฉบับภาษาไทยได้ที่นี่ | You can read the Thai version here]()
+[อ่านฉบับภาษาไทยได้ที่นี่ | You can read the Thai version here](MANUAL_TH.md)
 
 ---
 
