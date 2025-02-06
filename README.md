@@ -12,10 +12,13 @@ Eye tracking was taken into development around 100 years ago, though it can be i
 
 This repository was made specifically for the ISSP Project dedicated to the Sri Sangwan School. Implemented by using the existing Eye Tracking software called [Beam Eye Tracker](https://beam.eyeware.tech/), and utilizing it for the gaze bubble to follow with the mouse.
 
-Sri Sangwan School is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible.
+Sri Sangwan School is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible. Read more about Sri Sangwan School ([>>here<<](http://www.swn.ac.th/mainpage))
 
 This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations, and group study. Later on, we decided to research existing eye-tracking software and develop through existing API written by said eye-tracking software developer.
 
+---
+
+## Members
  * Sean Arackal, *Worcester Polytechnic Institute*
  * Mohamed Adem Djadid, *Worcester Polytechnic Institute*
  * Pawin Harijanwong, *Chulalongkorn University* ([@DivergentDraco](https://github.com/DivergentDraco))
@@ -39,11 +42,9 @@ The video includes our research and methodologies while working on the research 
 
 
 ## Our purpose and objective
-
 The objective for this project is to try and see methods that can be used within Sri Sangwan School's computer science lab, which houses extraordinary students that has loss of limb, uncontrollable muscle, or Cerebral Palsy, etc.
 
 ## Beam Eye Tracker
-
 Beam Eye Tracker is an eye tracker software that can be used with its existing [API](). Presenting a wide variety of functions, such as gaze tracking, integration with games, etc. The calibration and sensitivity can be controlled within its included UI.
 
 ### Coding language used
