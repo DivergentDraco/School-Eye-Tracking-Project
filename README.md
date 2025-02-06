@@ -32,6 +32,8 @@ This repository was made specifically for the **ISSP Project** dedicated to the 
 
 This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations, and group study. Later on, we decided to research existing eye-tracking software and modify the existing [**API**](https://beam.eyeware.tech/developers/) written by said eye-tracking software developer.
 
+![School Banner]()
+
 ## Our Presentation
 
 This video includes our presentation of this project.
