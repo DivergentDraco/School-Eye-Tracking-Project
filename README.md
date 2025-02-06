@@ -52,15 +52,17 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
 ### Coding language used
 #### To install the program, you will need the programs and files as stated:
 ##### Required Programs
- - Beam Eye Tracking software ([Website](https://beam.eyeware.tech/)) This software is needed to use eye tracking functionalities. This program costed a little, though the outcome is decent
-
+ - **Beam Eye Tracking** software ([Website](https://beam.eyeware.tech/)) This software is needed to use eye tracking functionalities.
+ 
+ ![Beam Eye Tracker](https://github.com/user-attachments/assets/cd8a1c21-beb4-472f-bc81-7047cefdc76d)
  - Python **3.9.13** ([Website](https://www.python.org/downloads/release/python-3913/))
  - Provided file in the repo
 
 ##### Additional Programs
- - Optikey ([Website](https://www.optikey.org/)) This software adds buttons on-screen to help with eye tracking functionalities. 
+ - **Optikey** ([Website](https://www.optikey.org/)) This software adds buttons on-screen to help with eye tracking functionalities. 
 (package installer?)
-   
+![optikeysymbol](https://github.com/user-attachments/assets/2d168696-d3a4-4e59-907e-d575fde42812)
+
 # Demo video
 [Find it here]()
 
