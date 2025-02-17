@@ -36,16 +36,6 @@ This project focuses on improving the well-being of Sri Sangwan School by provid
 
 ![School Banner](https://github.com/user-attachments/assets/9b123cf6-f919-4abe-b54b-365a5b79b447)
 
-```
-## Our Presentation
-
-This video includes our presentation of this project.
-
-[**>>Presentation Video<<**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-The video includes our research and methodologies while working on the research recommendations that applied to this project later on.
-```
-
 ## Our purpose and objective
 The objective of this project is to try and see methods that can be used within Sri Sangwan School's computer science lab, which houses students that has loss of limb, uncontrollable muscle, or Cerebral Palsy, etc.
 
