@@ -81,12 +81,12 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
 [Find it here]() 
 
 ## Installation steps
-1. Install the following program
- 1.1 Python 3.9.13
- 1.2 Beam Eye Tracker
- 1.3 Code editor (ex. Visual Studio Code)
-2. Install the provided file
- 2.1 Open the file folder, go to the *API* folder, and go to the *Python* folder.
+1. Install the following program\
+ 1.1 Python 3.9.13\
+ 1.2 Beam Eye Tracker\
+ 1.3 Code editor (ex. Visual Studio Code)\
+2. Install the provided file\
+ 2.1 Open the file folder, go to the *API* folder, and go to the *Python* folder.\
  2.2 Open **tracker_sample.py**
 
 You should be able to run the code, this should be the following result.
@@ -95,8 +95,8 @@ You should be able to run the code, this should be the following result.
 
 To establish a connection with the tracker server, you simply need to 
 
-3. Open the **Beam Eye Tracker**
- 3.1 Calibrate your eye tracker by clicking the calibrate button.
+3. Open the **Beam Eye Tracker**\
+ 3.1 Calibrate your eye tracker by clicking the calibrate button.\
  3.2 Use the alt + z shortcut for calibration to center the cursor.
 
 Your cursor should follow the bubble, from which you are looking at.
