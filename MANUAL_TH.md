@@ -19,11 +19,11 @@ Repositoryนี้ถูกจัดทำขึ้นเพื่อทำโ�
 ## สมาชิก
  * Sean Arackal, *Worcester Polytechnic Institute*
  * Mohamed Adem Djadid, *Worcester Polytechnic Institute*
- * Pawin Harijanwong, *Chulalongkorn University* ([@DivergentDraco](https://github.com/DivergentDraco))
- * Siraphop Homhual, *Chulalongkorn University*
+ * ภวินท์ หริจันทร์วงศ์, *มหาวิทยาลัยจุฬาลงกรณ์* ([@DivergentDraco](https://github.com/DivergentDraco))
+ * สิรภพ หอมหวล, *มหาวิทยาลัยจุฬาลงกรณ์*
  * Madalyn Nguyen, *Worcester Polytechnic Institute*
- * Marissa Rukachantarakul, *Chulalongkorn University*
- * Bhurinat Sumetchotimaytha, *Chulalongkorn University*
+ * มาริสา รุกขจันทรกุล, *มหาวิทยาลัยจุฬาลงกรณ์*
+ * ภูริณัฐ สุเมธโชติเมธา, *มหาวิทยาลัยจุฬาลงกรณ์*
  * Mahit Verma, *Worcester Polytechnic Institute* ([@MaVeryo](https://github.com/MaVeryo))
 
 ---
