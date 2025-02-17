@@ -32,7 +32,7 @@ This repository was made specifically for the **ISSP Project** dedicated to the 
 
 **Sri Sangwan School** is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible. Read more about Sri Sangwan School ([>>here<<](http://www.swn.ac.th/mainpage))
 
-This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations, and group study. Later on, we decided to research existing eye-tracking software and modify the existing [**API**](https://beam.eyeware.tech/developers/) written by said eye-tracking software developer.
+This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, classroom observations, and group study. Later on, we decided to research existing eye-tracking software and modify the existing [**SPK**](https://beam.eyeware.tech/developers/) written by said eye-tracking software developer.
 
 ![School Banner](https://github.com/user-attachments/assets/9b123cf6-f919-4abe-b54b-365a5b79b447)
 
@@ -50,7 +50,7 @@ The video includes our research and methodologies while working on the research 
 The objective of this project is to try and see methods that can be used within Sri Sangwan School's computer science lab, which houses students that has loss of limb, uncontrollable muscle, or Cerebral Palsy, etc.
 
 ## Beam Eye Tracker
-Beam Eye Tracker is an eye tracker software that can be used with its existing [API](). Presenting a wide variety of functions, such as gaze tracking, integration with games, etc. The calibration and sensitivity can be controlled within its included UI.
+Beam Eye Tracker is an eye tracker software that can be used with its existing [SPK](https://beam.eyeware.tech/developers/). Presenting a wide variety of functions, such as gaze tracking, integration with games, etc. The calibration and sensitivity can be controlled within its included UI.
 
 ### Coding language used
 #### To install the program, you will need the programs and files as stated:
@@ -83,7 +83,7 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
 ## Installation steps
 1. Install the following program
  1.1 Python 3.9.13
- 1.2 Beam Eyetracker
+ 1.2 Beam Eye Tracker
  1.3 Code editor (ex. Visual Studio Code)
 2. Install the provided file
  2.1 Open the file folder, go to the *API* folder, and go to the *Python* folder.
@@ -123,3 +123,5 @@ Experiencing cursor drifts while using the eye tracker
 
 - Head tilt and movement calibration issues\
 If the head moves after calibration, the head tracker program may have a hard time centering itself. Students at Sri Sangwan school may have a hard time keeping themselves still.
+
+If you encountered any problems, please contact us with email at SriSangwanISSP@gmail.com
