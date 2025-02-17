@@ -24,7 +24,7 @@ This repository was made specifically for the **ISSP Project** dedicated to the 
  * Madalyn Nguyen, *Worcester Polytechnic Institute*
  * Marissa Rukachantarakul, *Chulalongkorn University*
  * Bhurinat Sumetchotimaytha, *Chulalongkorn University*
- * Mahit Verma, *Worcester Polytechnic Institute*
+ * Mahit Verma, *Worcester Polytechnic Institute* ([@MaVeryo](https://github.com/MaVeryo))
 
 ---
 
@@ -103,7 +103,7 @@ Your cursor should follow the bubble, from which you are looking at.
 > This particular eye-tracking software costs around 400 baht. Which is needed to be able to run the code provided in this GitHub repository.
 
 > [!WARNING]
-> This small eye-tracking project is in development progress. Which does not intend to be implemented due to many factors such as calibration and sensitivity problems. This project was made to help with recommendation with the school and give other future teams to help with decision-making.
+> This small eye-tracking project is in development progress. Which does not intend to be implemented due to many factors such as calibration and sensitivity problems. This project was made to help with recommendations with the school and give other future teams to help with decision-making.
 
 
 
@@ -115,8 +115,7 @@ Throughout the project, there are many issues coming up while attempting to use 
 | Many of eye tracking camera users disabled the eye tracking due to eye fatigue when used, later to use the head tracking function that comes with the software.
 
 - Low Precision
- [Issues]()
   Experiencing cursor drifts while using the eye tracker
 
 - Head tilt and movement calibration issues
- [Issues]()
+  If the head moves after calibration, the head tracker program may have a hard time centering itself. Students at Sri Sangwan school may have a hard time keeping themselves still.
