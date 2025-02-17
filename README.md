@@ -2,6 +2,7 @@
 
 ## 2302399 PROJECT PROPOSAL I (2024)
 
+[Read about **head** tracking here](https://github.com/DivergentDraco/School-head-tracking-project)
 [อ่านฉบับภาษาไทยได้ที่นี่ | You can read the Thai version here](MANUAL_TH.md)
 
 ---
