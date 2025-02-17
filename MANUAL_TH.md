@@ -45,9 +45,8 @@ Beam Eye Tracker เป็นโปรแกรมติดตามดวงต
 ### ภาษาโค้ดดิ้งที่ใช้
 #### ในการที่จะใช้โค้ดในไฟล์นี้ ท่านต้องมีโปรแกรมดังกล่าว:
 ##### โปรแกรมที่จำเป็น
-  - ซอฟต์แวร์**Beam Eye Tracking** ([เว็บไซต์](https://beam.eyeware.tech/)) เป็นซอฟต์แวร์ที่จำเป็นในการใช้จับดวงตา
-
-  - ![Beam Eye Tracker](https://github.com/user-attachments/assets/cd8a1c21-beb4-472f-bc81-7047cefdc76d)
+  - ซอฟต์แวร์**Beam Eye Tracking** ([เว็บไซต์](https://beam.eyeware.tech/)) เป็นซอฟต์แวร์ที่จำเป็นในการใช้จับดวงตา\
+  ![Beam Eye Tracker](https://github.com/user-attachments/assets/cd8a1c21-beb4-472f-bc81-7047cefdc76d)
   - Python **3.9.13** ([Website](https://www.python.org/downloads/release/python-3913/))
   - ไฟล์ในrepositoryนี้
 
