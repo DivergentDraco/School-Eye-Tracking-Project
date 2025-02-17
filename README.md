@@ -88,13 +88,14 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
 You should be able to run the code, this should be the following result.
 
 ![image](https://github.com/user-attachments/assets/0667cfd6-1fb1-45ea-a366-a7048ac6d0d9)
+
 To establish a connection with the tracker server, you simply need to 
 
 3. Open the **Beam Eye Tracker**
  3.1 Calibrate your eye tracker by clicking the calibrate button.
  3.2 Use the alt + z shortcut for calibration to center the cursor.
 
-Your cursor should follow the bubble.
+Your cursor should follow the bubble, from which you are looking at.
 
 ---
 
