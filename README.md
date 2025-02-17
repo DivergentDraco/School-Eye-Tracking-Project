@@ -86,6 +86,7 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
  2.2 Open **tracker_sample.py**
 
 You should be able to run the code, this should be the following result.
+
 ![image](https://github.com/user-attachments/assets/0667cfd6-1fb1-45ea-a366-a7048ac6d0d9)
 To establish a connection with the tracker server, you simply need to 
 
