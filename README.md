@@ -47,7 +47,7 @@ The video includes our research and methodologies while working on the research 
 ```
 
 ## Our purpose and objective
-The objective for this project is to try and see methods that can be used within Sri Sangwan School's computer science lab, which houses extraordinary students that has loss of limb, uncontrollable muscle, or Cerebral Palsy, etc.
+The objective of this project is to try and see methods that can be used within Sri Sangwan School's computer science lab, which houses students that has loss of limb, uncontrollable muscle, or Cerebral Palsy, etc.
 
 ## Beam Eye Tracker
 Beam Eye Tracker is an eye tracker software that can be used with its existing [API](). Presenting a wide variety of functions, such as gaze tracking, integration with games, etc. The calibration and sensitivity can be controlled within its included UI.
@@ -62,7 +62,7 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
  - Provided file in the repo
 
 ##### Additional Programs
- - **Optikey** ([Website](https://www.optikey.org/)) This software adds buttons on-screen to help with eye tracking functionalities. 
+ - **Optikey** ([Website](https://www.optikey.org/)) This software adds buttons on-screen to help with eye-tracking functionalities. 
 (package installer?)
 ![optikeysymbol](https://github.com/user-attachments/assets/2d168696-d3a4-4e59-907e-d575fde42812)
 
