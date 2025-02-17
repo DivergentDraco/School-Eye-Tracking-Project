@@ -61,6 +61,10 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
  - Python **3.9.13** ([Website](https://www.python.org/downloads/release/python-3913/))
  - Provided file in the repo
 
+##### Required Equipments
+ - **Webcam** is an important equipment for tracking the face. Low quality webcam is encouraged with 30 fps laptop webcam is enough.
+   Recommendation is Logitech C270 HD which costs around 590 baht.
+
 ##### Additional Programs
  - **Optikey** ([Website](https://www.optikey.org/)) This software adds buttons on-screen to help with eye-tracking functionalities. 
 (package installer?)
