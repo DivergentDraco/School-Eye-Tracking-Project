@@ -36,6 +36,7 @@ This project focuses on improving the well-being of Sri Sangwan School by provid
 
 ![School Banner](https://github.com/user-attachments/assets/9b123cf6-f919-4abe-b54b-365a5b79b447)
 
+```
 ## Our Presentation
 
 This video includes our presentation of this project.
@@ -43,7 +44,7 @@ This video includes our presentation of this project.
 [**>>Presentation Video<<**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 The video includes our research and methodologies while working on the research recommendations that applied to this project later on.
-
+```
 
 ## Our purpose and objective
 The objective for this project is to try and see methods that can be used within Sri Sangwan School's computer science lab, which houses extraordinary students that has loss of limb, uncontrollable muscle, or Cerebral Palsy, etc.
@@ -76,7 +77,23 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
 [Find it here]() 
 
 ## Installation steps
-1. install the required programs needed
+1. Install the following program
+ 1.1 Python 3.9.13
+ 1.2 Beam Eyetracker
+ 1.3 Code editor (ex. Visual Studio Code)
+2. Install the provided file
+ 2.1 Open the file folder, go to the *API* folder, and go to the *Python* folder.
+ 2.2 Open **tracker_sample.py**
+
+You should be able to run the code, this should be the following result.
+![image](https://github.com/user-attachments/assets/0667cfd6-1fb1-45ea-a366-a7048ac6d0d9)
+To establish a connection with the tracker server, you simply need to 
+
+3. Open the **Beam Eye Tracker**
+ 3.1 Calibrate your eye tracker by clicking the calibrate button.
+ 3.2 Use the alt + z shortcut for calibration to center the cursor.
+
+Your cursor should follow the bubble.
 
 ---
 
@@ -84,7 +101,7 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
 > This particular eye-tracking software costs around 400 baht. Which is needed to be able to run the code provided in this GitHub repository.
 
 > [!WARNING]
-> This eye-tracking project is in development progress. Which does not intend to be immplemented the moment it's finished. The final product can only be recommended
+> This small eye-tracking project is in development progress. Which does not intend to be implemented due to many factors such as calibration and sensitivity problems. This project was made to help with recommendation with the school and give other future teams to help with decision-making.
 
 
 
