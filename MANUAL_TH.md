@@ -19,11 +19,11 @@
 ## สมาชิกผู้จัดทำ
  * Sean Arackal, *Worcester Polytechnic Institute*
  * Mohamed Adem Djadid, *Worcester Polytechnic Institute*
- * ภวินท์ หริจันทร์วงศ์, *จุฬาลงกรณ์มหาลัย* ([@DivergentDraco](https://github.com/DivergentDraco))
- * สิรภพ หอมหวล, *จุฬาลงกรณ์มหาลัย*
+ * ภวินท์ หริจันทร์วงศ์, *จุฬาลงกรณ์มหาวิทยาลัย* ([@DivergentDraco](https://github.com/DivergentDraco))
+ * สิรภพ หอมหวล, *จุฬาลงกรณ์มหาวิทยาลัย*
  * Madalyn Nguyen, *Worcester Polytechnic Institute*
- * มาริสา รุกขจันทรกุล, *จุฬาลงกรณ์มหาลัย*
- * ภูริณัฐ สุเมธโชติเมธา, *จุฬาลงกรณ์มหาลัย*
+ * มาริสา รุกขจันทรกุล, *จุฬาลงกรณ์มหาวิทยาลัย*
+ * ภูริณัฐ สุเมธโชติเมธา, *จุฬาลงกรณ์มหาวิทยาลัย*
  * Mahit Verma, *Worcester Polytechnic Institute* ([@MaVeryo](https://github.com/MaVeryo))
 
 ---
