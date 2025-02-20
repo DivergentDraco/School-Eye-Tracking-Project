@@ -1,6 +1,6 @@
 # Manual (คู่มือการใช้งาน)
 
-## 2302399 PROJECT PROPOSAL I (2024)
+## 2302307 Interactive Science and Social Project (ISSP) ปีการศึกษา 2024
 
 [Read about **head** tracking here](https://github.com/DivergentDraco/School-head-tracking-project)
 
