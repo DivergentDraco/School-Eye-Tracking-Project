@@ -1,4 +1,4 @@
-# Manual (คู่มือการใช้งาน)
+# Manual for Eye Tracking
 
 ## 2302307 Interactive Science and Social Project (ISSP) AY 2024
 
