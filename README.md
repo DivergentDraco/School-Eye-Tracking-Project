@@ -105,14 +105,14 @@ Your cursor should follow the bubble, from which you are looking.
 # Encountered Issues
 Throughout the project, there are many issues coming up while attempting to use the eye-tracking method.
 
-- Eye Fatigue
+- Eye Fatigue\
  [Issues](https://www.reddit.com/r/MicrosoftFlightSim/comments/1ew95qh/does_anybody_actually_use_eye_tracking/)
 Many of eye tracking camera users disabled the eye tracking due to eye fatigue when used, later to use the head tracking function that comes with the software.
 
-- Low Precision
+- Low Precision\
 Experiencing cursor drifts while using the eye tracker
 
-- Head tilt and movement calibration issues
+- Head tilt and movement calibration issues\
 If the head moves after calibration, the head tracker program may have a hard time centering itself. Students at Sri Sangwan school may have a hard time keeping themselves still.
 
 Should you encounter any problems, please feel free to contact us via Srisangwanissp@gmail.com
