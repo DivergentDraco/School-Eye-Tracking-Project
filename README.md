@@ -2,7 +2,7 @@
 
 ## 2302307 Interactive Science and Social Project (ISSP) AY 2024
 
-[Read about **head** tracking here](https://github.com/DivergentDraco/School-head-tracking-project)
+[Read about **face** tracking here](https://github.com/DivergentDraco/School-head-tracking-project)
 
 [อ่านฉบับภาษาไทยได้ที่นี่ | You can read the Thai version here](MANUAL_TH.md)
 
