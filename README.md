@@ -68,7 +68,7 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
 
 # Installation
 
-## Installation video
+## Installation Video
 [Click Here]() 
 
 ## Installation Steps
