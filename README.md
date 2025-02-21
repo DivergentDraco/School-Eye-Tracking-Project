@@ -10,10 +10,10 @@
 
 # Introduction
 
-Eye tracking technology was taken into development around 100 years ago, though it can be implemented with other users, including those with disabilities. This project has come to the light after we initiated a detailed analysis through observation, interview questions, and surveys throughout the school.
+Eye-tracking technology was taken into development around 100 years ago, though it can be implemented with other users, including those with disabilities. This project has come to the light after we initiated a detailed analysis through observation, interview questions, and surveys throughout the school.
 
 This repository was made specifically for the **Interactive Science and Social Project 
- (ISSP)**, in collaboration with Worcester Polytechnic Institute, USA. The students studying in Bachelor of Science in Applied Chemistry, Chemistry Department, Faculty of Science, Chulalongkorn University has to accomplish. In this project, Sri Sangwan School is our sponsor. We, students doing this project, are interested in the software called [**Beam Eye Tracker**](https://beam.eyeware.tech/) to utilize it for the gaze bubble to follow with the mouse. 
+ (ISSP)**, in collaboration with Worcester Polytechnic Institute, USA. The students studying in Bachelor of Science in Applied Chemistry, Chemistry Department, Faculty of Science, Chulalongkorn University has to accomplish. In this project, Sri Sangwan School is our sponsor. We are interested in the software called [**Beam Eye Tracker**](https://beam.eyeware.tech/) to utilize it for the gaze bubble to follow with the mouse. 
 
 ---
 
@@ -98,21 +98,21 @@ Your cursor should follow the bubble, from which you are looking.
 > This particular eye-tracking software costs around 400 baht, which is needed to be able to run the code provided in this GitHub repository.
 
 > [!WARNING]
-> This small eye-tracking project is in development progress which does not intend to be implemented due to many factors, such as calibration and sensitivity problems. This project was made to help with recommendation to the school and give other future teams to help with decision-making.
+> This eye-tracking project is in development progress which does not intend to be implemented due to many factors, such as calibration and sensitivity problems. This project was made to help with recommendation to the school and give other future teams to help with decision-making.
 
 
 
 # Encountered Issues
-Throughout the project, there are many issues coming up while attempting to use the eye tracking method.
+Throughout the project, there are many issues coming up while attempting to use the eye-tracking method.
 
-- Eye Fatigue\
+- Eye Fatigue
  [Issues](https://www.reddit.com/r/MicrosoftFlightSim/comments/1ew95qh/does_anybody_actually_use_eye_tracking/)
 Many of eye tracking camera users disabled the eye tracking due to eye fatigue when used, later to use the head tracking function that comes with the software.
 
-- Low Precision\
+- Low Precision
 Experiencing cursor drifts while using the eye tracker
 
-- Head tilt and movement calibration issues\
+- Head tilt and movement calibration issues
 If the head moves after calibration, the head tracker program may have a hard time centering itself. Students at Sri Sangwan school may have a hard time keeping themselves still.
 
 Should you encounter any problems, please feel free to contact us via Srisangwanissp@gmail.com
