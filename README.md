@@ -75,7 +75,7 @@ Beam Eye Tracker is an eye tracker software that can be used with its existing [
 1. Install the following program\
  1.1 Python 3.9.13\
  1.2 Beam Eye Tracker\
- 1.3 Code editor (ex. Visual Studio Code)\
+ 1.3 Code editor (ex. Visual Studio Code)
 2. Install the provided file\
  2.1 Open the file folder, go to the *API* folder, and go to the *Python* folder.\
  2.2 Open **tracker_sample.py**
