@@ -1,6 +1,6 @@
 # Eye Tracking Manual
 
-## 2302307 Interactive Science and Social Project (ISSP) AY 2024
+## 2302307 Interactive Science and Social Project (ISSP) Academic Year 2024
 
 [Read about **face** tracking here](https://github.com/DivergentDraco/School-head-tracking-project)
 
@@ -33,7 +33,7 @@ This repository was made specifically for the **Interactive Science and Social P
 
 **Sri Sangwan School** is an institution that provides inclusive education for children with disabilities. Our project mission is to assist them by making insightful research recommendations that will make digital education more accessible. Read more about Sri Sangwan School ([>>here<<](http://www.swn.ac.th/mainpage))
 
-This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, and classroom observations. Later on, we decided to research existing eye-tracking software and modify the existing [**SPK**](https://beam.eyeware.tech/developers/) written by said eye-tracking software developer.
+This project focuses on improving the well-being of Sri Sangwan School by providing research recommendations through surveys, interviews, and classroom observations. Later on, we decided to research existing eye-tracking software and modify the existing [**SDK**](https://beam.eyeware.tech/developers/) written by said eye-tracking software developer.
 
 ![School Banner](https://github.com/user-attachments/assets/9b123cf6-f919-4abe-b54b-365a5b79b447)
 
@@ -41,7 +41,7 @@ This project focuses on improving the well-being of Sri Sangwan School by provid
 The goal of this project is to try and see methods that can be used within Sri Sangwan School's computer lab, which houses students that have loss of limb, uncontrollable muscle, or Cerebral Palsy, etc.
 
 ## Beam Eye Tracker
-Beam Eye Tracker is an eye tracker software that can be used with its existing [SPK](https://beam.eyeware.tech/developers/). Presenting a wide variety of functions, such as gaze tracking, integration with games, etc. The calibration and sensitivity can be controlled within its included UI.
+Beam Eye Tracker is an eye tracker software that can be used with its existing [SDK](https://beam.eyeware.tech/developers/). Presenting a wide variety of functions, such as gaze tracking, integration with games, etc. The calibration and sensitivity can be controlled within its included UI.
 
 ### Coding Language Used
 #### To install the program, you will need the programs and files as stated:
